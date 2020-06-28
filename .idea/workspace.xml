@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="98925156-07fd-4ef3-99f4-31aacfe2123f" name="Default Changelist" comment="" />
+    <list default="true" id="98925156-07fd-4ef3-99f4-31aacfe2123f" name="Default Changelist" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +20,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reactspa" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1daycd6y26xCaEwBmCiOFEgpZ6z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,14 +56,41 @@
       <workItem from="1592730462701" duration="5767000" />
       <workItem from="1592847360230" duration="3528000" />
       <workItem from="1593108895392" duration="5255000" />
-      <workItem from="1593363627196" duration="5945000" />
+      <workItem from="1593363627196" duration="6416000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1593369805480</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593369805480</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1593369836950">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1593369836950" />
     <state x="207" y="199" key="run.anything.popup" timestamp="1593111490183">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
