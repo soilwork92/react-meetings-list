@@ -12,3 +12,5 @@ This is a simple app build with React and Firebase.
 6. Send emails to Attendees
 
 This app is build thanks to LinkedIn Learning.
+
+Demo: https://quiztion.bg/react/meeting-list/
